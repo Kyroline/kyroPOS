@@ -1,0 +1,32 @@
+C:\Users\Admin\source\repos\Final Project\Final Project\obj\Debug\net5.0-windows\Final_Project.formMain.resources
+C:\Users\Admin\source\repos\Final Project\Final Project\obj\Debug\net5.0-windows\Final Project.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Final Project\Final Project\obj\Debug\net5.0-windows\Final Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Final Project\Final Project\obj\Debug\net5.0-windows\Final Project.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Final Project\Final Project\obj\Debug\net5.0-windows\Final Project.AssemblyInfo.vb
+C:\Users\Admin\source\repos\Final Project\Final Project\obj\Debug\net5.0-windows\Final Project.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Final Project\Final Project\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\Admin\source\repos\Final Project\Final Project\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\Admin\source\repos\Final Project\Final Project\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\Admin\source\repos\Final Project\Final Project\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Admin\source\repos\Final Project\Final Project\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Admin\source\repos\Final Project\Final Project\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\Admin\source\repos\Final Project\Final Project\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Admin\source\repos\Final Project\Final Project\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Admin\source\repos\Final Project\Final Project\bin\Debug\net5.0-windows\MySql.Data.xml
+C:\Users\Admin\source\repos\Final Project\Final Project\obj\Debug\net5.0-windows\Final Project.vbproj.CopyComplete
+C:\Users\Admin\source\repos\Final Project\Final Project\obj\Debug\net5.0-windows\Final Project.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Final Project\Final Project\obj\Debug\net5.0-windows\Final_Project.formEditProduct.resources
+C:\Users\Admin\source\repos\Final Project\Final Project\obj\Debug\net5.0-windows\Final_Project.Resources.resources
+C:\Users\Admin\source\repos\Final Project\Final Project\obj\Debug\net5.0-windows\Final_Project.formARProduct.resources
+C:\Users\Admin\source\repos\Final Project\Final Project\obj\Debug\net5.0-windows\Final Project.vbproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Final Project\Final Project\obj\Debug\net5.0-windows\Final_Project.formPrintTransaction.resources
+C:\Users\Admin\source\repos\Final Project\Final Project\bin\Debug\net5.0-windows\KyroPOS.exe
+C:\Users\Admin\source\repos\Final Project\Final Project\bin\Debug\net5.0-windows\KyroPOS.deps.json
+C:\Users\Admin\source\repos\Final Project\Final Project\bin\Debug\net5.0-windows\KyroPOS.runtimeconfig.json
+C:\Users\Admin\source\repos\Final Project\Final Project\bin\Debug\net5.0-windows\KyroPOS.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Final Project\Final Project\bin\Debug\net5.0-windows\KyroPOS.dll
+C:\Users\Admin\source\repos\Final Project\Final Project\bin\Debug\net5.0-windows\ref\KyroPOS.dll
+C:\Users\Admin\source\repos\Final Project\Final Project\bin\Debug\net5.0-windows\KyroPOS.pdb
+C:\Users\Admin\source\repos\Final Project\Final Project\obj\Debug\net5.0-windows\KyroPOS.dll
+C:\Users\Admin\source\repos\Final Project\Final Project\obj\Debug\net5.0-windows\ref\KyroPOS.dll
+C:\Users\Admin\source\repos\Final Project\Final Project\obj\Debug\net5.0-windows\KyroPOS.pdb
